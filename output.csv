@@ -1,0 +1,286 @@
+id,places,sentiment
+0,Marine Drive,1
+1,Marine Drive,1
+2,Marine Drive,1
+3,Marine Drive,1
+4,Marine Drive,1
+5,Marine Drive,1
+6,Marine Drive,1
+7,Marine Drive,1
+8,Marine Drive,1
+9,Marine Drive,1
+10,Marine Drive,1
+11,Marine Drive,1
+12,Marine Drive,1
+13,Marine Drive,1
+14,Marine Drive,1
+15,Marine Drive,0
+16,Marine Drive,1
+17,Marine Drive,1
+18,Marine Drive,1
+19,Marine Drive,1
+20,Marine Drive,0
+21,Marine Drive,1
+22,Marine Drive,1
+23,Marine Drive,1
+24,Marine Drive,1
+25,Marine Drive,1
+26,Marine Drive,1
+27,Marine Drive,1
+28,Marine Drive,1
+29,Marine Drive,1
+30,Marine Drive,1
+31,Marine Drive,1
+32,Marine Drive,1
+33,Marine Drive,1
+34,Marine Drive,1
+35,Marine Drive,1
+36,Marine Drive,1
+37,Marine Drive,1
+38,Marine Drive,1
+39,Marine Drive,1
+40,Marine Drive,1
+41,Marine Drive,1
+42,Marine Drive,1
+43,Marine Drive,1
+44,Marine Drive,1
+45,Marine Drive,1
+46,Marine Drive,1
+47,Marine Drive,0
+48,Marine Drive,1
+49,Marine Drive,1
+0,Gateway Of India,0
+1,Gateway Of India,1
+2,Gateway Of India,1
+3,Gateway Of India,1
+4,Gateway Of India,1
+5,Gateway Of India,1
+6,Gateway Of India,1
+7,Gateway Of India,1
+8,Gateway Of India,1
+9,Gateway Of India,1
+10,Gateway Of India,1
+11,Gateway Of India,1
+12,Gateway Of India,1
+13,Gateway Of India,1
+14,Gateway Of India,1
+15,Gateway Of India,1
+16,Gateway Of India,1
+17,Gateway Of India,0
+18,Gateway Of India,0
+19,Gateway Of India,1
+20,Gateway Of India,1
+21,Gateway Of India,1
+22,Gateway Of India,1
+23,Gateway Of India,1
+24,Gateway Of India,1
+25,Gateway Of India,1
+26,Gateway Of India,1
+27,Gateway Of India,1
+28,Gateway Of India,1
+29,Gateway Of India,1
+30,Gateway Of India,1
+31,Gateway Of India,1
+32,Gateway Of India,1
+33,Gateway Of India,0
+34,Gateway Of India,0
+35,Gateway Of India,1
+36,Gateway Of India,1
+37,Gateway Of India,1
+38,Gateway Of India,1
+39,Gateway Of India,1
+40,Gateway Of India,1
+41,Gateway Of India,1
+42,Gateway Of India,1
+43,Gateway Of India,1
+44,Gateway Of India,1
+45,Gateway Of India,1
+46,Gateway Of India,0
+47,Gateway Of India,1
+48,Gateway Of India,1
+49,Gateway Of India,1
+50,Gateway Of India,1
+51,Gateway Of India,1
+52,Gateway Of India,1
+53,Gateway Of India,1
+54,Gateway Of India,1
+55,Gateway Of India,1
+56,Gateway Of India,1
+57,Gateway Of India,1
+58,Gateway Of India,1
+59,Gateway Of India,1
+0,Nariman Point,1
+1,Nariman Point,1
+2,Nariman Point,1
+3,Nariman Point,1
+4,Nariman Point,1
+5,Nariman Point,1
+6,Nariman Point,1
+7,Nariman Point,0
+8,Nariman Point,1
+9,Nariman Point,1
+10,Nariman Point,1
+11,Nariman Point,1
+12,Nariman Point,0
+13,Nariman Point,1
+14,Nariman Point,1
+15,Nariman Point,1
+16,Nariman Point,1
+17,Nariman Point,0
+18,Nariman Point,1
+19,Nariman Point,1
+20,Nariman Point,1
+21,Nariman Point,1
+22,Nariman Point,1
+23,Nariman Point,1
+24,Nariman Point,1
+25,Nariman Point,1
+26,Nariman Point,1
+27,Nariman Point,1
+28,Nariman Point,1
+29,Nariman Point,1
+30,Nariman Point,1
+31,Nariman Point,1
+32,Nariman Point,1
+33,Nariman Point,0
+34,Nariman Point,1
+35,Nariman Point,1
+36,Nariman Point,0
+37,Nariman Point,1
+38,Nariman Point,1
+39,Nariman Point,1
+40,Nariman Point,1
+41,Nariman Point,1
+42,Nariman Point,1
+43,Nariman Point,1
+44,Nariman Point,1
+45,Nariman Point,0
+46,Nariman Point,1
+47,Nariman Point,1
+48,Nariman Point,0
+49,Nariman Point,1
+50,Nariman Point,0
+51,Nariman Point,1
+52,Nariman Point,1
+53,Nariman Point,1
+54,Nariman Point,0
+55,Nariman Point,0
+56,Nariman Point,1
+57,Nariman Point,1
+58,Nariman Point,1
+59,Nariman Point,0
+60,Nariman Point,1
+61,Nariman Point,1
+62,Nariman Point,1
+63,Nariman Point,1
+64,Nariman Point,1
+65,Nariman Point,1
+66,Nariman Point,0
+67,Nariman Point,0
+68,Nariman Point,1
+69,Nariman Point,1
+0,Elephanta Caves,1
+1,Elephanta Caves,0
+2,Elephanta Caves,1
+3,Elephanta Caves,1
+4,Elephanta Caves,1
+5,Elephanta Caves,1
+6,Elephanta Caves,0
+7,Elephanta Caves,1
+8,Elephanta Caves,1
+9,Elephanta Caves,0
+10,Elephanta Caves,1
+11,Elephanta Caves,1
+12,Elephanta Caves,1
+13,Elephanta Caves,1
+14,Elephanta Caves,0
+15,Elephanta Caves,1
+16,Elephanta Caves,1
+17,Elephanta Caves,1
+18,Elephanta Caves,1
+19,Elephanta Caves,1
+20,Elephanta Caves,1
+21,Elephanta Caves,0
+22,Elephanta Caves,1
+23,Elephanta Caves,1
+24,Elephanta Caves,1
+25,Elephanta Caves,1
+26,Elephanta Caves,1
+27,Elephanta Caves,0
+28,Elephanta Caves,0
+29,Elephanta Caves,1
+30,Elephanta Caves,1
+31,Elephanta Caves,1
+32,Elephanta Caves,1
+33,Elephanta Caves,1
+34,Elephanta Caves,1
+35,Elephanta Caves,1
+36,Elephanta Caves,1
+37,Elephanta Caves,1
+38,Elephanta Caves,1
+39,Elephanta Caves,1
+40,Elephanta Caves,1
+41,Elephanta Caves,1
+42,Elephanta Caves,1
+43,Elephanta Caves,1
+44,Elephanta Caves,1
+45,Elephanta Caves,0
+46,Elephanta Caves,1
+47,Elephanta Caves,1
+48,Elephanta Caves,0
+49,Elephanta Caves,1
+50,Elephanta Caves,1
+51,Elephanta Caves,1
+52,Elephanta Caves,1
+53,Elephanta Caves,1
+54,Elephanta Caves,0
+0,Bandra-Worli Sea Link,1
+1,Bandra-Worli Sea Link,0
+2,Bandra-Worli Sea Link,1
+3,Bandra-Worli Sea Link,1
+4,Bandra-Worli Sea Link,0
+5,Bandra-Worli Sea Link,1
+6,Bandra-Worli Sea Link,1
+7,Bandra-Worli Sea Link,1
+8,Bandra-Worli Sea Link,1
+9,Bandra-Worli Sea Link,1
+10,Bandra-Worli Sea Link,1
+11,Bandra-Worli Sea Link,1
+12,Bandra-Worli Sea Link,1
+13,Bandra-Worli Sea Link,1
+14,Bandra-Worli Sea Link,1
+15,Bandra-Worli Sea Link,0
+16,Bandra-Worli Sea Link,1
+17,Bandra-Worli Sea Link,1
+18,Bandra-Worli Sea Link,1
+19,Bandra-Worli Sea Link,1
+20,Bandra-Worli Sea Link,0
+21,Bandra-Worli Sea Link,1
+22,Bandra-Worli Sea Link,1
+23,Bandra-Worli Sea Link,0
+24,Bandra-Worli Sea Link,0
+25,Bandra-Worli Sea Link,1
+26,Bandra-Worli Sea Link,1
+27,Bandra-Worli Sea Link,1
+28,Bandra-Worli Sea Link,1
+29,Bandra-Worli Sea Link,1
+30,Bandra-Worli Sea Link,0
+31,Bandra-Worli Sea Link,0
+32,Bandra-Worli Sea Link,1
+33,Bandra-Worli Sea Link,0
+34,Bandra-Worli Sea Link,1
+35,Bandra-Worli Sea Link,1
+36,Bandra-Worli Sea Link,1
+37,Bandra-Worli Sea Link,1
+38,Bandra-Worli Sea Link,1
+39,Bandra-Worli Sea Link,0
+40,Bandra-Worli Sea Link,0
+41,Bandra-Worli Sea Link,0
+42,Bandra-Worli Sea Link,0
+43,Bandra-Worli Sea Link,1
+44,Bandra-Worli Sea Link,1
+45,Bandra-Worli Sea Link,1
+46,Bandra-Worli Sea Link,1
+47,Bandra-Worli Sea Link,1
+48,Bandra-Worli Sea Link,0
+49,Bandra-Worli Sea Link,0
